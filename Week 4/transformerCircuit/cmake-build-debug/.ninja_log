@@ -1,0 +1,17 @@
+# ninja log v5
+0	430	6865850226774700	CMakeFiles/transformerCircuit.dir/main.cpp.obj	89684e7033a97a84
+432	590	6865850228328862	transformerCircuit.exe	ee17f57ba9b96be9
+4	442	6865850313410205	CMakeFiles/transformerCircuit.dir/main.cpp.obj	89684e7033a97a84
+443	561	6865850314549992	transformerCircuit.exe	ee17f57ba9b96be9
+3	412	6865850430117894	CMakeFiles/transformerCircuit.dir/main.cpp.obj	89684e7033a97a84
+412	522	6865850431178096	transformerCircuit.exe	ee17f57ba9b96be9
+4	445	6865851710519628	CMakeFiles/transformerCircuit.dir/main.cpp.obj	89684e7033a97a84
+446	560	6865851711620167	transformerCircuit.exe	ee17f57ba9b96be9
+2	445	6865854155644856	CMakeFiles/transformerCircuit.dir/main.cpp.obj	89684e7033a97a84
+445	561	6865854156745163	transformerCircuit.exe	ee17f57ba9b96be9
+3	438	6865854352401004	CMakeFiles/transformerCircuit.dir/main.cpp.obj	89684e7033a97a84
+439	549	6865854353462317	transformerCircuit.exe	ee17f57ba9b96be9
+4	433	6865864898952326	CMakeFiles/transformerCircuit.dir/main.cpp.obj	89684e7033a97a84
+433	547	6865864900062492	transformerCircuit.exe	ee17f57ba9b96be9
+3	428	6865865862808590	CMakeFiles/transformerCircuit.dir/main.cpp.obj	89684e7033a97a84
+428	538	6865865863868269	transformerCircuit.exe	ee17f57ba9b96be9

@@ -1,0 +1,9 @@
+# ninja log v5
+1	427	6861460320228372	CMakeFiles/frostbite.dir/main.cpp.obj	74ac331ce3bf33f2
+429	543	6861460321348521	frostbite.exe	d40367d7df94df1c
+2	413	6861460802054439	CMakeFiles/frostbite.dir/main.cpp.obj	74ac331ce3bf33f2
+413	527	6861460803144575	frostbite.exe	d40367d7df94df1c
+2	431	6861463891270322	CMakeFiles/frostbite.dir/main.cpp.obj	74ac331ce3bf33f2
+431	538	6861463892303389	frostbite.exe	d40367d7df94df1c
+3	412	6861464852680754	CMakeFiles/frostbite.dir/main.cpp.obj	74ac331ce3bf33f2
+413	521	6861464853742574	frostbite.exe	d40367d7df94df1c
