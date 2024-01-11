@@ -1,0 +1,3 @@
+D:/GitHub Repo/COE/Cornerstone 1/Week 5/suturePackaging/cmake-build-debug/CMakeFiles/suturePackaging.dir
+D:/GitHub Repo/COE/Cornerstone 1/Week 5/suturePackaging/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/GitHub Repo/COE/Cornerstone 1/Week 5/suturePackaging/cmake-build-debug/CMakeFiles/rebuild_cache.dir
